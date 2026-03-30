@@ -1,0 +1,20 @@
+wskazana kontrola
+Lung-RADS
+konsultacja pulmonologiczna
+dalsza diagnostyka
+weryfikacja
+PET
+PET-CT
+BTS
+Fleischner
+biopsja
+BAC
+BAG
+EBUS
+bronchoskopia
+konsylium
+kominek
+torakochirurg
+konsultacja torakochirurgiczna
+onkolog
+onsultacja onkologiczna

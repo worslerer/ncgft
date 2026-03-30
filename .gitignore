@@ -1,0 +1,17 @@
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+env/
+.env
+.DS_Store
+*.log
+*.tmp
+*.swp
+*.swo
+.~lock.*
+models/
+ncgft/docs/mongot_community_0.60.1_linux_x86_64.tgz

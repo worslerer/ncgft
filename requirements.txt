@@ -1,0 +1,22 @@
+# Podstawowa obróbka danych
+pandas
+numpy
+scikit-learn
+tqdm
+
+# NLP i klasyczny NER
+spacy
+pl_core_news_sm @ https://github.com/explosion/spacy-models/releases/download/pl_core_news_sm-3.7.0/pl_core_news_sm-3.7.0-py3-none-any.whl
+
+# Obsługa LLM (Bielik, Qwen, Mistral)
+transformers
+accelerate
+bitsandbytes
+peft
+datasets
+sentencepiece
+einops
+
+# Narzędzia deweloperskie
+jupyterlab
+ipywidgets
