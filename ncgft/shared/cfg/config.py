@@ -34,7 +34,6 @@ class ConfigQuantization:
 
 @dataclass(frozen=True)
 class ConfigTokenizer:
-    path_tokenizer: str 
     local_files_only: bool = True
     trust_remote_code: bool = False
 

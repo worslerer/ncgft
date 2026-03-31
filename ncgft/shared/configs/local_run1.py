@@ -12,11 +12,11 @@ CONFIG = ConfigLocalRun(
 
     config_local=ConfigLocal(
         enabled=True, 
-        path_models=Path("./models"),
+        path_models=Path("/home/test/caise-ner/ncgft/models"),
         device="cuda",
     ),
     config_model=ConfigModel(
-        name_model="Qwen/Qwen2.5-7B-Instruct",
+        name_model="Qwen2.5-7B-Instruct",
         max_new_tokens=2048,
         temperature=0.5,
         top_p=0.9,
@@ -26,7 +26,6 @@ CONFIG = ConfigLocalRun(
         quantization_type="nf4",
     ),
     config_tokenizer=ConfigTokenizer(
-        path_tokenizer="./models/qwen_tokenizer",
         local_files_only=True,
         trust_remote_code=False,
     ),
