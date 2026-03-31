@@ -11,7 +11,7 @@ from ncgft.shared.cfg.config import (
 CONFIG = ConfigLocalRun(
 
     config_local=ConfigLocal(
-        enabled=True,
+        enabled=True, 
         path_models=Path("./models"),
         device="cuda",
     ),

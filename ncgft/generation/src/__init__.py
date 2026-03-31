@@ -1,2 +1,0 @@
-"""Generation source code."""
-
